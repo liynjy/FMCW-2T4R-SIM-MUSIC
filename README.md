@@ -1,6 +1,14 @@
 # FMCW-2T4R-SIM-MUSIC
 FMCW 2T4R Radar Simulator and MUSIC Algorithm High Resolution DOA Estimation
 
+
+This project is not funed by any organization.
+
+Author: Lin Junyang
+Email : linjy@163.com
+Date : 2019-6-15
+All Rights Reserved.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                FMCW 2T4R Radar Simulator               %
 %                                                        %
